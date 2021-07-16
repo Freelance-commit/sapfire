@@ -1,0 +1,28 @@
+$aurum: #f2f2f2;
+
+$text: #292929;
+$red: #e74c3c;
+$green: #8bc34a;
+$bg: #263238;
+$gray: #f4f6f5;
+$yellou: #fcb322;
+$tomato: #ef6c00;
+
+@mixin f300 {
+    font-family: "Roboto", sans-serif;
+    font-weight: 300;
+}
+
+@mixin f500 {
+    font-family: "Roboto", sans-serif;
+    font-weight: 500;
+}
+
+@mixin f700 {
+    font-family: "Roboto", sans-serif;
+    font-weight: 700;
+}
+@mixin f300 {
+    font-family: "Roboto", sans-serif;
+    font-weight: 300;
+}
